@@ -18,3 +18,5 @@ To resize filters I treated them like small 7x7 images and then used `PIL.Image.
 | 3 | the whole network | lr=1e-4 | 5 | 3 | 71 |
 | 4 | the whole network | lr=1e-4 | 5 | 3 | 72.8 |
 | 5 | the whole network | lr=5e-5 | 3 | 1.5 | 73.6 |
+
+I used `p2.xlarge` for training.
